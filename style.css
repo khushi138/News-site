@@ -1,0 +1,13 @@
+.card-img{
+    /* width: 350px; */
+}
+.row>*{
+    padding-left: 0;
+    padding-right: 0;
+
+}
+.btn{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
